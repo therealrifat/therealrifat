@@ -64,7 +64,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therealrifat&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=therealrifat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 📈 GitHub Activity
