@@ -55,7 +55,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealrifat&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealrifat&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
