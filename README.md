@@ -70,7 +70,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/tokyonight/therealrifat" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/2acacd/therealrifat" alt="Activity Contribution Graph" />
 </p>
 
 ---
