@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Rifat Islam" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm RIFAT ISLAM</h1>
 <h3 align="center">A passionate Full stack developer from Bangladesh</h3>
 
