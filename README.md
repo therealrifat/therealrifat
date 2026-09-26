@@ -70,7 +70,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=therealrifat&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://ghchart.rshah.org/tokyonight/therealrifat" alt="GitHub Contribution Chart" />
 </p>
 
 ---
