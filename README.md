@@ -70,7 +70,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=therealrifat&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=therealrifat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
