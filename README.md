@@ -70,7 +70,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therealrifat&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.koyeb.app/graph?username=therealrifat&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
