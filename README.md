@@ -6,21 +6,13 @@
 
 ### 💻 Web Developer | Full-Stack Developer
 
-I’m a passionate Web Developer focused on building modern, responsive, and user-friendly web applications.
-
-I enjoy learning new technologies, solving problems, and turning ideas into real-world web applications.
+### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
 
-## 👨‍💻 About Me
 
-- 🔭 I’m currently exploring **Next.js** and modern full-stack development.
-- 🌱 I’m continuously improving my skills in **JavaScript, React.js, TypeScript & Next.js**.
-- 💻 I’m building responsive and user-friendly web applications.
-- 🚀 I’m interested in **Frontend & Full-Stack Web Development**.
-- 🧩 I enjoy solving programming problems and learning through projects.
-- 📚 I believe in learning by building real-world projects.
-- 🎯 My goal is to become a professional **Full-Stack Web Developer**.
+## 👨💻 About Me  
+I am a passionate aspiring Full-Stack Web Developer dedicated to building responsive, modern, and user-friendly web applications. Currently, I am deeply focused on exploring Next.js and refining my skills across the core web ecosystem, including JavaScript, React.js, and TypeScript. I strongly believe in learning by doing, which is why I continuously challenge myself by solving programming problems and building real-world projects. Driven by curiosity and a commitment to continuous growth, my goal is to deliver impactful software solutions while constantly pushing the boundaries of frontend and full-stack development.
 
 ---
 
@@ -32,6 +24,12 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript,nextjs" />
 </p>
 
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
 ### Tools & Technologies
 
 <p>
@@ -39,7 +37,24 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 </p>
 
 ---
+## 🤝 Connect With Me
 
+<p>
+  <a href="https://www.linkedin.com/in/therealrifat">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:meetrifat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/therealrifat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+---
 ## 🚀 Currently Working On
 
 - 🌐 Building modern responsive web applications
@@ -75,21 +90,6 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 
 ---
 
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/therealrifat">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:meetrifat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/therealrifat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -123,3 +123,8 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 ### 💙 Thanks for visiting my profile!
 
 ⭐ Feel free to explore my repositories and connect with me.
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=therealrifat&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-islam" /> </p>
+
