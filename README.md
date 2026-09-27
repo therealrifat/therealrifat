@@ -29,15 +29,16 @@ I am a passionate aspiring Full-Stack Web Developer dedicated to building respon
 </p>
 
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+### Backend & Database (Learning)
 
-### Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend and database tech stack" />
+</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+### Dev Tools & Workflow
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark" alt="Developer tools" />
 </p>
 
 ---
