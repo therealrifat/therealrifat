@@ -2,13 +2,17 @@
   <img src="./banner.png" alt="Rifat Islam" width="100%">
 </p>
 
-# 👋 Hi, I'm Rifat Islam
+<h1 align='center'>👋 Hi, I'm Rifat Islam</h1>
+<div align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=680&height=40&lines=Full+Stack+Web+Developer;React+and+Next.js+Specialist;JavaScript+and+TypeScript;Clean+UI+and+UX+Designer;Building+Modern+Web+Apps" alt="Typing animation" />
+</p>
+<h2> 🔭 I build things with JavaScript, React, and Node.js</h2>
+</div>
 
-### 💻 Web Developer | Full-Stack Developer
 
-### 🔭 I build things with JavaScript, React, and Node.js
 
----
+
 
 
 ## 👨💻 About Me  
