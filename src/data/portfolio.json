@@ -1,0 +1,151 @@
+{
+  "profile": {
+    "name": "Rifat Islam",
+    "role": "MERN Stack Developer",
+    "roles": ["MERN Stack Developer", "React Enthusiast", "React and Next.js Specialist"],
+    "tagline": "I build modern, fast and scalable web applications with MongoDB, Express, React & Node.js.",
+    "photo": "https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/825267144_1656716275887787_2656259725816715017_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEiwcPUm0pVl8Rc-4TJsV5fbORnqQmsxo5s5GepCazGjg1l3TRZlVGFV7Cn0Z5nl-w7K1PlXDab7IT586DNHT_m&_nc_ohc=xLsld0HBYFAQ7kNvwGrk7i8&_nc_oc=AdpC6Y8je6XnWXP5rkSC-y6kUSzHDccnmVolQkey7tcBTwMTcc0QLPsT1AwFlLOW6Oj2yjeNs3fnPgX6O_cHEz3f&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&_nc_gid=49TF2JCYniHGPdoZxdeK0w&_nc_ss=7b2a8&oh=00_AQPHIK8UsbV8zrO03Czd4tJ6a9RIa4GRcZ-5Jw0rzZeXAA&oe=6ADB6B04",
+    "resume": "/resume.pdf",
+    "location": "Bagerhat, Khulna, Bangladesh"
+  },
+  "socials": [
+    { "name": "GitHub", "icon": "github", "url": "https://github.com/therealrifat" },
+    { "name": "LinkedIn", "icon": "linkedin", "url": "https://linkedin.com/in/therealrifat" },
+    { "name": "X", "icon": "x", "url": "https://x.com/rifat" },
+    { "name": "Facebook", "icon": "facebook", "url": "https://facebook.com/therealrifat" }
+  ],
+  "about": {
+    "intro": "Hi, I'm Rifat — a passionate MERN Stack Developer who loves turning ideas into interactive, user-friendly web experiences.",
+    "journey": "My programming journey started during college, when I wrote my first lines of JavaScript and was hooked by how a few lines of code could bring a page to life. I began with HTML and CSS, moved into JavaScript deeply, and then discovered React — which completely changed how I think about building interfaces. Since then I've been learning the full stack: Node.js and Express on the server, MongoDB for data, and deploying real applications people can use.",
+    "whatIDo": "I enjoy building pixel-perfect, responsive frontends and connecting them to clean, well-structured APIs. I love the moment when a design becomes a living product — solving problems, optimizing performance, and sweating the small details that make an app feel smooth. Currently, I'm focused on the MERN stack and constantly improving my craft.",
+    "hobbies": ["Football", "Reading Tech Blogs", "Gaming", "Photography", "Exploring New Tech"]
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "icon": "code",
+      "items": [
+        { "name": "HTML5 & Semantic Markup", "level": 95 },
+        { "name": "CSS3 / Tailwind CSS", "level": 92 },
+        { "name": "JavaScript (ES6+)", "level": 90 },
+        { "name": "React.js", "level": 92 },
+        { "name": "Responsive Design", "level": 90 }
+      ]
+    },
+    {
+      "category": "Backend",
+      "icon": "server",
+      "items": [
+        { "name": "Node.js", "level": 88 },
+        { "name": "Express.js", "level": 85 },
+        { "name": "MongoDB & Mongoose", "level": 82 },
+        { "name": "REST API Design", "level": 85 },
+        { "name": "JWT Authentication", "level": 80 }
+      ]
+    },
+    {
+      "category": "Tools & Others",
+      "icon": "wrench",
+      "items": [
+        { "name": "Git & GitHub", "level": 88 },
+        { "name": "VS Code", "level": 95 },
+        { "name": "Postman", "level": 85 },
+        { "name": "Figma (UI Reading)", "level": 75 },
+        { "name": "Netlify / Vercel", "level": 80 }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BSc in Computer Science & Engineering",
+      "institution": "Placeholder University of Technology",
+      "period": "2023 — Present",
+      "description": "Currently pursuing my bachelor's degree with a focus on software engineering, data structures, algorithms, and web technologies.",
+      "highlights": [
+        "Special coursework in Web Engineering & Database Systems",
+        "Built multiple full-stack projects as semester capstones",
+        "Active member of the university coding club"
+      ]
+    },
+    {
+      "degree": "Higher Secondary Certificate (HSC) — Science",
+      "institution": "Govt Siraj Uddin Memorial College",
+      "period": "2021 — 2023",
+      "description": "Completed HSC with a Science background (Physics, Chemistry, Mathematics, Biology) — where my curiosity about technology first began.",
+      "highlights": [
+        " GPA 5.00 / 5.00",
+        "First place in inter-college science fair programming contest"
+      ]
+    }
+  ],
+  "experience": [],
+  "projects": [
+    {
+      "id": "bazardor",
+      "name": "BAZAR-DOR",
+      "image": "/projects/taskflow.jpg",
+      "tech": ["NextJs", "Tailwind CSS", "Node.js"],
+      "shortDescription": "A full-stack task management app with boards, drag-and-drop, and team collaboration.",
+      "description": "TaskFlow is a productivity application that helps teams organize work into boards and lists. Users can sign up, create workspaces, add tasks with deadlines and priorities, and drag them across stages. It includes JWT auth, REST APIs, and a fully responsive React frontend.",
+      "liveLink": "https://bazar-dor-a07.vercel.app/",
+      "repoLink": "https://github.com/therealrifat/Bazar-Dor-A07",
+      "challenges": [
+        "Implementing smooth drag-and-drop across columns while keeping state in sync with the backend",
+        "Designing a secure JWT auth flow with refresh tokens",
+        "Optimizing re-renders in a large board with hundreds of cards"
+      ],
+      "futurePlans": [
+        "Real-time collaboration with Socket.io",
+        "File attachments and comments on tasks",
+        "A mobile app version with React Native"
+      ]
+    },
+    {
+      "id": "shopzone",
+      "name": "ShopZone",
+      "image": "/projects/shopzone.jpg",
+      "tech": ["React", "Redux Toolkit", "Node.js", "Express", "MongoDB"],
+      "shortDescription": "An e-commerce platform with product search, cart, and a complete admin panel.",
+      "description": "ShopZone is a full-featured online store where users can browse products, filter by category and price, add items to a persistent cart, and check out. Admins get a dashboard to manage products, orders, and users. Built with the complete MERN stack.",
+      "liveLink": "https://shopzone-demo.netlify.app",
+      "repoLink": "https://github.com/rifat/shopzone-client",
+      "challenges": [
+        "Managing complex cart state that persists across sessions",
+        "Building efficient search & filtering with pagination on the API",
+        "Securing admin routes and protecting user data"
+      ],
+      "futurePlans": [
+        "Payment gateway integration (Stripe / SSLCommerz)",
+        "Product reviews and wishlists",
+        "CI/CD pipeline with automated deployments"
+      ]
+    },
+    {
+      "id": "weathervision",
+      "name": "WeatherVision",
+      "image": "/projects/weathervision.jpg",
+      "tech": ["React", "OpenWeather API", "Chart.js", "Tailwind CSS"],
+      "shortDescription": "A beautiful weather dashboard with forecasts, charts, and city search.",
+      "description": "WeatherVision fetches live weather data from the OpenWeather API and presents it with interactive charts showing temperature, humidity, and wind trends over time. Includes city search with autocomplete, unit switching, and a clean dark UI.",
+      "liveLink": "https://weathervision-demo.netlify.app",
+      "repoLink": "https://github.com/rifat/weathervision",
+      "challenges": [
+        "Handling API rate limits gracefully with caching",
+        "Making charts fully responsive on all screen sizes",
+        "Showing useful empty, loading and error states for every scenario"
+      ],
+      "futurePlans": [
+        "Geolocation-based automatic weather",
+        "Severe weather alerts and notifications",
+        "PWA support for offline access"
+      ]
+    }
+  ],
+  "contact": {
+    "headline": "Let's work together",
+    "message": "Have a project in mind, or just want to say hi? My inbox is always open — I'll get back to you as soon as I can.",
+    "email": "meetrifat@gmail.com",
+    "phone": "+8801700000000",
+    "whatsapp": "+8801719046223"
+  }
+}
