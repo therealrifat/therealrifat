@@ -25,7 +25,7 @@ function ContactCard({ icon, label, value, href }) {
 }
 
 function Contact() {
-  const whatsappNumber = contact.whatsapp.replace(/[^\d]/g, "");
+  const whatsappNumber = contact.whatsapp
 
   return (
     <section
