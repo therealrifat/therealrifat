@@ -2,7 +2,7 @@
   "profile": {
     "name": "Rifat Islam",
     "role": "MERN Stack Developer",
-    "roles": ["MERN Stack Developer", "React Enthusiast", "React and Next.js Specialist"],
+    "roles": ["MERN Stack Developer", "React and NextJs Specialist"],
     "tagline": "I build modern, fast and scalable web applications with MongoDB, Express, React & Node.js.",
     "photo": "https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/825267144_1656716275887787_2656259725816715017_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEiwcPUm0pVl8Rc-4TJsV5fbORnqQmsxo5s5GepCazGjg1l3TRZlVGFV7Cn0Z5nl-w7K1PlXDab7IT586DNHT_m&_nc_ohc=xLsld0HBYFAQ7kNvwGrk7i8&_nc_oc=AdpC6Y8je6XnWXP5rkSC-y6kUSzHDccnmVolQkey7tcBTwMTcc0QLPsT1AwFlLOW6Oj2yjeNs3fnPgX6O_cHEz3f&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&_nc_gid=49TF2JCYniHGPdoZxdeK0w&_nc_ss=7b2a8&oh=00_AQPHIK8UsbV8zrO03Czd4tJ6a9RIa4GRcZ-5Jw0rzZeXAA&oe=6ADB6B04",
     "resume": "/resume.pdf",
@@ -57,26 +57,27 @@
   ],
   "education": [
     {
-      "degree": "BSc in Computer Science & Engineering",
-      "institution": "Placeholder University of Technology",
-      "period": "2023 — Present",
-      "description": "Currently pursuing my bachelor's degree with a focus on software engineering, data structures, algorithms, and web technologies.",
+      "degree": "BA",
+      "institution": "Government Prafulla Chandra College",
+      "period": "2021 — 2026",
+      "description": "Completed Bachelor of Arts while independently building strong foundations in software development, data structures, and web technologies through self-directed learning and practical projects.",
       "highlights": [
-        "Special coursework in Web Engineering & Database Systems",
-        "Built multiple full-stack projects as semester capstones",
-        "Active member of the university coding club"
+        "Self-taught developer focusing on Modern Web Development & JavaScript Ecosystem",
+        "Developed multiple full-stack projects applying practical coding concepts",
+        "Active participant in tech communities and continuous learner of new technologies"
       ]
     },
     {
-      "degree": "Higher Secondary Certificate (HSC) — Science",
-      "institution": "Govt Siraj Uddin Memorial College",
-      "period": "2021 — 2023",
-      "description": "Completed HSC with a Science background (Physics, Chemistry, Mathematics, Biology) — where my curiosity about technology first began.",
-      "highlights": [
-        " GPA 5.00 / 5.00",
-        "First place in inter-college science fair programming contest"
-      ]
-    }
+  "degree": "Higher Secondary Certificate (HSC)",
+  "institution": "Govt Siraj Uddin Memorial College",
+  "period": "2017 — 2020",
+  "description": "Completed higher secondary education while developing a strong interest in technology, web engineering, and problem solving.",
+  "highlights": [
+    "Explored core fundamentals of web development and programming independently",
+    "Developed strong logical reasoning and analytical skills",
+    "Actively engaged in self-paced technical learning"
+  ]
+}
   ],
   "experience": [],
   "projects": [
@@ -121,14 +122,14 @@
       ]
     },
     {
-      "id": "weathervision",
-      "name": "WeatherVision",
+      "id": "devstack",
+      "name": "DevStack",
       "image": "/projects/weathervision.jpg",
-      "tech": ["React", "OpenWeather API", "Chart.js", "Tailwind CSS"],
-      "shortDescription": "A beautiful weather dashboard with forecasts, charts, and city search.",
-      "description": "WeatherVision fetches live weather data from the OpenWeather API and presents it with interactive charts showing temperature, humidity, and wind trends over time. Includes city search with autocomplete, unit switching, and a clean dark UI.",
-      "liveLink": "https://weathervision-demo.netlify.app",
-      "repoLink": "https://github.com/rifat/weathervision",
+      "tech": ["React", "Tailwind CSS", "JavaScript"],
+      "shortDescription": "Compare frontend, backend, and database tools side by side, and pick the perfect stack for your project.",
+      "description": "Compare frontend, backend, and database tools side by side, and pick the perfect stack for your project.",
+      "liveLink": "https://devstack-a5.netlify.app/",
+      "repoLink": "https://github.com/therealrifat/DevStack",
       "challenges": [
         "Handling API rate limits gracefully with caching",
         "Making charts fully responsive on all screen sizes",
