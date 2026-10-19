@@ -83,10 +83,10 @@
     {
       "id": "bazardor",
       "name": "BAZAR-DOR",
-      "image": "/projects/taskflow.jpg",
-      "tech": ["NextJs", "Tailwind CSS", "Node.js"],
-      "shortDescription": "A full-stack task management app with boards, drag-and-drop, and team collaboration.",
-      "description": "TaskFlow is a productivity application that helps teams organize work into boards and lists. Users can sign up, create workspaces, add tasks with deadlines and priorities, and drag them across stages. It includes JWT auth, REST APIs, and a fully responsive React frontend.",
+      "image": "https://media.licdn.com/dms/image/v2/D5622AQG9PuHjv6T9iw/feedshare-shrink_1280/B56aFS.iMKGkAM-/0/1792393487346?e=1793836800&v=beta&t=9Zruo-zeDQAGCWYn48a_ZRJqOMnbC0ohB8BzBI6d00E",
+      "tech": ["NextJs", "Tailwind CSS", "Node.js", "Hero UI", "Hot Toast"],
+      "shortDescription": "The current market prices for your daily essentials at a glance",
+      "description": "BazarDor is a modern, user-friendly platform that allows users to easily view the current market prices of essential daily commodities—such as rice, lentils, oil, vegetables, fish, meat, eggs, and spices—all in one place. Through this app, users can conveniently track daily price fluctuations, the percentage of price increases or decreases, and detailed market-specific information.",
       "liveLink": "https://bazar-dor-a07.vercel.app/",
       "repoLink": "https://github.com/therealrifat/Bazar-Dor-A07",
       "challenges": [
@@ -101,14 +101,14 @@
       ]
     },
     {
-      "id": "shopzone",
-      "name": "ShopZone",
-      "image": "/projects/shopzone.jpg",
-      "tech": ["React", "Redux Toolkit", "Node.js", "Express", "MongoDB"],
-      "shortDescription": "An e-commerce platform with product search, cart, and a complete admin panel.",
-      "description": "ShopZone is a full-featured online store where users can browse products, filter by category and price, add items to a persistent cart, and check out. Admins get a dashboard to manage products, orders, and users. Built with the complete MERN stack.",
-      "liveLink": "https://shopzone-demo.netlify.app",
-      "repoLink": "https://github.com/rifat/shopzone-client",
+      "id": "fitlog",
+      "name": "Fit-Log",
+      "image": "https://media.licdn.com/dms/image/v2/D562DAQF8ScDt8TpztQ/profile-treasury-image-shrink_800_800/B56aEsNrf6K8AI-/0/1791743146243?e=1793001600&v=beta&t=o-VJZcDY4emw6JuG0wcyO-MmhjEofRYEd1qN_l5EuWg",
+      "tech": ["React", "Node.js", "Tailwind CSS", "Desy UI","React-toastify"],
+      "shortDescription": "FitLog is a modern fitness and workout library tracking web application designed to serve as a dark-themed, no-nonsense gym companion.",
+      "description": "FitLog is a modern fitness and workout library tracking web application designed to serve as a dark-themed, no-nonsense gym companion. It allows users to browse a library of exercises, select workouts for their daily routines, track their saved plans, and monitor their progress.",
+      "liveLink": "https://fit-log-a6.vercel.app/",
+      "repoLink": "https://github.com/therealrifat/Fit-Log-A6",
       "challenges": [
         "Managing complex cart state that persists across sessions",
         "Building efficient search & filtering with pagination on the API",
